@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Saurav! <img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/mario.gif" width="50"></h2>
+## <p align="center" > Hi there, I'm Saurav! <img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/mario.gif" width="100"></p>
 
 **`CS Undergrad • Web-Designer • UX/UI`**
 <img align="right" src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/runnin-car.gif" width="400" alt="car" />
