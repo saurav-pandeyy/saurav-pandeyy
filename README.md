@@ -12,5 +12,6 @@
 [![Buy me a Coffee Badge](https://img.shields.io/badge/-Buy_me_a_Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sauravpandeyy "Support me on Buy me a Coffee")
 <img src="https://komarev.com/ghpvc/?username=sauravpandeyy&label=Profile%20views&color=948979&style=flat" alt="Github Profile views"/>
 
-Inspired by *Steal Like an Artist* 
-<img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/lovey.png" style="margin-bottom: 90px;" width="30" height="25">
+<p align="right"><sup align="right"> What is this Earth without Cars? just a Rock!</sup><a><img src="https://cdn3.emoji.gg/emojis/9073-stone.png" width="24px" height="24px" alt="rock"></a></p>
+
+<p align="left"><sup align="left"> Inspired by Steal Like an Artist <img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/lovey.png" style="margin-bottom: 90px;" width="30" height="25"></sup></p>
