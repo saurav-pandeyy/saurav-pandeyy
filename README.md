@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Saurav! <img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/mario.gif" width="50"></h2>
 
 **`CS Undergrad • Web-Designer • UX/UI`**
-<img align="right" src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/runnin-car.gif" width="425" alt="car" />
+<img align="right" src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/runnin-car.gif" width="400" alt="car" />
 
 - Currently working with frontend and design systems
 - Huge fan of German automobiles
