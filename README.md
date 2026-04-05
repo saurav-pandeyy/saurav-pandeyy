@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 
-[![status](https://api.statusbadges.me/badge/status/791013655369089054?label=Current+status&labelColor=grey)](https://discord.com/users/791013655369089054 "My current status")
+[![status](https://api.statusbadges.me/badge/status/791013655369089054?simple=true&label=Current+status&labelColor=grey)](https://discord.com/users/791013655369089054 "My current status")
 [![views](https://komarev.com/ghpvc/?username=sauravpandeyy&label=Profile%20views&color=948979&style=flat")](https://github.com/sauravpandeyy "My Github Profile views")
 
 </div>
