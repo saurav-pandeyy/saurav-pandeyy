@@ -16,9 +16,13 @@
 </div>
 <div align="center">
 
+<img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/cargif.gif" width="300">
+
+</div>
+<p align="center"><sup align="center"> What is this Earth without Cars? just a Rock!</sup><a><img src="https://cdn3.emoji.gg/emojis/9073-stone.png" width="24px" height="24px" alt="rock"></a></p>
+<div align="center">
+
 [![status](https://api.statusbadges.me/badge/status/791013655369089054?simple=true&label=Current+status&labelColor=grey)](https://discord.com/users/791013655369089054 "My current status")
 [![views](https://komarev.com/ghpvc/?username=sauravpandeyy&label=Profile%20views&color=948979&style=flat")](https://github.com/sauravpandeyy "My Github Profile views")
 
 </div>
-
-<p align="center"><sup align="center"> What is this Earth without Cars? just a Rock!</sup><a><img src="https://cdn3.emoji.gg/emojis/9073-stone.png" width="24px" height="24px" alt="rock"></a></p>
