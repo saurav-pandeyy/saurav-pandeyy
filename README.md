@@ -1,4 +1,4 @@
-## <p align="center"> Hi there, I'm Saurav <img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/heyyy.gif" width="100"></p>
+## <p align="center"> I'm Saurav <img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/heyyy.gif" width="100"></p>
 
 <div align="center">
   
